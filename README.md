@@ -17,6 +17,10 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 ---
 
+## **My skills**
+
+<br/>
+
 #### Languages
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
@@ -35,19 +39,21 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 ---
 
-#### Technologies
+#### Libraries, Databases, Technologies
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker) 
+![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat&logo=heroku&logoColor=de0330) 
+![Figma](https://img.shields.io/badge/-Figma-fff?style=flat&logo=Figma)
 
 ---
 
 ## **📫 How to reach me**
 
-[<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/heidi-dragomir/) [<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Mail.svg" alt="mail logo" height="32">](mailto:dragomirh@yahoo.com)
+[<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/heidi-dragomir/) [<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Mail.svg" alt="Mail logo" height="32">](mailto:dragomirh@yahoo.com)
 
 ---
