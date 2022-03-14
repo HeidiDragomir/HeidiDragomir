@@ -17,9 +17,7 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 ---
 
-## **My skills**
-
-<br/>
+## **💻 My skills**
 
 #### Languages
 
