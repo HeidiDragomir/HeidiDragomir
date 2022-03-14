@@ -1,6 +1,4 @@
-
 <img src="https://www.mobitsolutions.com/wp-content/uploads/2020/06/full-stack-developer-1170x500.jpg" width="80%"><br/><br/>
-
 
 # Hi there, I'm **Heidi**! 👋
 
@@ -9,6 +7,7 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 ---
 
 ## **😊 About me**
+
 <br/>
 
 - 👀 I'm passionate about continuous learning.
@@ -17,8 +16,8 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 - 👯 Looking for an internship to develop my skills and gain useful experience.
 
 ---
+
 #### Languages
-<br/>
 
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
@@ -29,16 +28,14 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 ---
 
 #### Frameworks
-<br/>
 
-![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel) 
-![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330) 
+![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
+![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 
 ---
 
 #### Technologies
-<br/>
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
@@ -48,9 +45,9 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 
 ---
-## **📫 How to reach me**
-<br/>
 
-| [<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/heidi-dragomir/) | [<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/email.svg" alt="email logo" height="32">](mailto:dragomirh@yahoo.com) |
+## **📫 How to reach me**
+
+[<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/heidi-dragomir/) | [<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/email.svg" alt="email logo" height="32">](mailto:dragomirh@yahoo.com)
 
 ---
