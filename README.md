@@ -48,6 +48,6 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 ## **📫 How to reach me**
 
-[<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/heidi-dragomir/) | [<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/email.svg" alt="email logo" height="32">](mailto:dragomirh@yahoo.com)
+[<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/heidi-dragomir/) [<img src="https://github.com/HeidiDragomir/HeidiDragomir/blob/main/Assets/email.svg" alt="email logo" height="32">](mailto:dragomirh@yahoo.com)
 
 ---
