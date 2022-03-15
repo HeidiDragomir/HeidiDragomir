@@ -39,13 +39,16 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 #### Libraries, Databases, Technologies
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C) 
+![SASS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=sass&logoColor=blue)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
+![Bash](https://img.shields.io/badge/-Bash-fff?style=flat&logo=bash&logoColor=de0330)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker) 
 ![Heroku](https://img.shields.io/badge/-Heroku-fff?style=flat&logo=heroku&logoColor=de0330) 
+![WordPress](https://img.shields.io/badge/-WordPress-fff?style=flat&logo=WordPress&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-fff?style=flat&logo=Figma)
 
 ---
