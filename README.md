@@ -29,17 +29,17 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 ---
 
-#### Frameworks
+#### Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Node](https://img.shields.io/badge/-Node-fff?&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-fff?style=flat&logo=express)
+![Express](https://img.shields.io/badge/-Express-fff?style=flat&logoColor=68A063)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
 
 ---
 
-#### Libraries, Databases, Technologies
+#### Databases, Technologies
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C) 
 ![SASS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=sass&logoColor=blue)
