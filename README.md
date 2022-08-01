@@ -32,7 +32,7 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 #### Frameworks
 
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![Node](https://img.shields.io/badge/-Node-fff?&logo=Node)
+![Node](https://img.shields.io/badge/-Node-fff?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-fff?&logo=Express)
 ![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=Laravel)
 ![Angular](https://img.shields.io/badge/-Angular-fff?style=flat&logo=angular&logoColor=de0330)
