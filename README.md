@@ -37,7 +37,7 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 #### Frameworks & Libraries
 
-![Next JS](https://img.shields.io/badge/Next-fff?style=for-the-badge&logo=next.js&logoColor=black)
+![Next JS](https://img.shields.io/badge/-Next-fff?style=flat&logo=next.js&logoColor=black)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Node](https://img.shields.io/badge/-Node-fff?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-fff?style=flat&logo=express&logoColor=68A063)
