@@ -1,5 +1,3 @@
-<img src="https://www.mobitsolutions.com/wp-content/uploads/2020/06/full-stack-developer-1170x500.jpg" width="80%"><br/><br/>
-
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFiZjhiY2Q3YzNmMzJkZTA3NDY1ZGYzOGE2NDM3MDM1ZDMxY2RmZiZjdD1z/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
@@ -8,7 +6,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-# Hi there, I'm **Heidi**! 👋
+# Hi there, I'm **Heidi**! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in Stockholm 💻 🎓.
 
@@ -18,10 +16,11 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 <br/>
 
-- 👀 I'm passionate about continuous learning.
-- 🌱 I’m currently learning JavaScript, Angular, React.
+- 👀 I'm passionate about continuous learning, I love JavaScript and backend with Node/Express, my plan is to learn .Net or C# or Python in the future.
+- 🧠 I'm currently learning Next.js.
 - 👨‍💻 All of my projects are available [here](https://github.com/HeidiDragomir?tab=repositories).
-- 👯 Looking for an internship to develop my skills and gain useful experience.
+- 👯 I'm doing my intership right now to develop my skills and gain useful experience.
+- 
 
 ---
 
@@ -39,6 +38,7 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 #### Frameworks & Libraries
 
+![Next](https://img.shields.io/badge/-Next-fff?&logo=Next)
 ![React](https://img.shields.io/badge/-React-fff?&logo=React)
 ![Node](https://img.shields.io/badge/-Node-fff?&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-fff?style=flat&logo=express&logoColor=68A063)
