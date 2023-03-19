@@ -48,8 +48,10 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 
 #### Databases, Technologies
 
+![Tailwind](https://img.shields.io/badge/-Tailwind-fff?style=flat&logo=tailwind&logoColor=563D7C)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C) 
 ![SASS](https://img.shields.io/badge/-SASS-fff?style=flat&logo=sass&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?style=flat&logo=mongodb)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
