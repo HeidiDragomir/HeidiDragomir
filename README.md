@@ -1,5 +1,13 @@
 <img src="https://www.mobitsolutions.com/wp-content/uploads/2020/06/full-stack-developer-1170x500.jpg" width="80%"><br/><br/>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFiZjhiY2Q3YzNmMzJkZTA3NDY1ZGYzOGE2NDM3MDM1ZDMxY2RmZiZjdD1z/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+
 # Hi there, I'm **Heidi**! 👋
 
 I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in Stockholm 💻 🎓.
