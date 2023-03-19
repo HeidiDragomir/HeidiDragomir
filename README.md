@@ -19,7 +19,8 @@ I'm currently studying to become a **fullstack webdeveloper** at Chas Academy in
 - 👀 I'm passionate about continuous learning, I love JavaScript and backend with Node/Express, my plan is to learn .Net or C# or Python in the future.
 - 🧠 I'm currently learning Next.js.
 - 👨‍💻 All of my projects are available [here](https://github.com/HeidiDragomir?tab=repositories).
-- 👯 I'm doing my intership right now to develop my skills and gain useful experience.
+- 👯 I'm doing my internship right now to develop my skills and gain useful experience.
+- 🤝 I'm open to work.
 
 ---
 
