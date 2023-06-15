@@ -2,8 +2,8 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFiZjhiY2Q3YzNmMzJkZTA3NDY1ZGYzOGE2NDM3MDM1ZDMxY2RmZiZjdD1z/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="100">
-  <img src="https://e7.pngegg.com/pngimages/337/526/png-clipart-net-framework-version-history-software-framework-microsoft-installation-microsoft-blue-text.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="200">
+  <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-net-framework.png" width="200">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
