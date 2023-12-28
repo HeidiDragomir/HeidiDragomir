@@ -20,7 +20,7 @@ I recently finished my studies as a **fullstack webdeveloper** at Chas Academy i
 - 👀 I'm passionate about continuous learning, I love JavaScript and backend with Node/Express.
 - 🧠 I'm currently learning C# and .Net.
 - 👯 I did an internship (8 months) at `Bidstacker.se` in order to develop my skills and gain useful experience.
-- :thinking: I'm currently working at `Bidstacker.se`
+- 👉 I'm currently working at `Bidstacker.se`
 - 🌱 I'm currently a co-owner of `Bidstacker.se`
 - 👨‍💻 All of my projects are available [here](https://github.com/HeidiDragomir?tab=repositories).
 - 🤝 I'm currently open for a new `job opportunity`.
