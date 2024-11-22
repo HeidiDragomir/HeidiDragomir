@@ -9,7 +9,7 @@
 
 # Hi there, I'm **Heidi**! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I recently finished my studies as a **fullstack webdeveloper** at Chas Academy in Stockholm 💻 🎓.
+I am a **fullstack developer** with more than 2 years of experience, and I recently began my studies in Web Development .NET at Jönköping University 💻 🎓.
 
 ---
 
